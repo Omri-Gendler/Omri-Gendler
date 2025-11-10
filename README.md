@@ -65,29 +65,29 @@
 
 ## 🔥 Featured Projects
 
-### 🌟 [Project Name 1](https://github.com/YOUR_USERNAME/project1)
-Brief description of your amazing project. What technologies did you use? What problem does it solve?
+### 🌟 [Offbeat Frontend](https://github.com/Omri-Gendler/Offbeat-frontend)
+A modern frontend application built with cutting-edge technologies. This project showcases responsive design, user-friendly interfaces, and seamless user experience.
 
-**Tech Stack:** React, Node.js, MongoDB, Express.js
-- 🚀 Feature 1
-- ⚡ Feature 2
-- 🎯 Feature 3
+**Tech Stack:** React, JavaScript, CSS3, HTML5
+- 🎨 Modern and responsive UI design
+- ⚡ Fast and optimized performance
+- 🔧 Clean and maintainable code architecture
 
-### 🌟 [Project Name 2](https://github.com/YOUR_USERNAME/project2)
-Brief description of another cool project you've built.
+### 🌟 [Offbeat Frontend](https://github.com/Omri-Gendler/Offbeat-frontend)
+A modern frontend application built with cutting-edge technologies. This project showcases responsive design, user-friendly interfaces, and seamless user experience.
 
-**Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma
-- 📱 Responsive design
-- 🔐 Authentication system
-- 📊 Data visualization
+**Tech Stack:** React, JavaScript, CSS3, HTML5
+- 🎨 Modern and responsive UI design
+- ⚡ Fast and optimized performance
+- � Clean and maintainable code architecture
 
-### 🌟 [Project Name 3](https://github.com/YOUR_USERNAME/project3)
-Description of a third project that showcases different skills.
+### 🌟 [Minesweeper](https://github.com/Omri-Gendler/Minesweeper)
+A classic Minesweeper game implementation showcasing game logic, interactive UI, and problem-solving algorithms. Features clean code architecture and engaging gameplay mechanics.
 
-**Tech Stack:** Python, Django, AWS, Docker
-- 🤖 Machine learning integration
-- ☁️ Cloud deployment
-- 📈 Scalable architecture
+**Tech Stack:** JavaScript, HTML5, CSS3
+- 🎮 Interactive game mechanics
+- 🧠 Smart algorithm implementation  
+- 🎯 Clean and intuitive user interface
 
 
 ## 🤝 Connect with Me
